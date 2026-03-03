@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI Agents, Data Analysis, Machine Learning, and Databases**
 
-- 🌐 Portfolio: <a href="https://portfolio-dx9o.onrender.com/" target="_blank">View Live</a>
+- 🌐 Portfolio Website: <a href="https://portfolio-dx9o.onrender.com/" target="_blank">https://portfolio-dx9o.onrender.com/</a>
 
 - 📫 How to reach me: **ayushsaha1884@gmail.com**
 
