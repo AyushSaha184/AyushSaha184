@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Saha</h1>
-<h3 align="center">4th-year student | Aspiring AI Engineer from India</h3>
+<h3 align="center">4th-year student | Aspiring GenAI Engineer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayushsaha184&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaha184" />
 </p>
 
-- 🌱 I’m currently learning **AI Agents, Data Analysis, Machine Learning, and Databases**
+- 🌱 I’m currently learning **AI Agents, Data Analysis, Transformers,Open Source LLMs and Databases**
 
 - 🌐 <a href="https://portfolio-dx9o.onrender.com/" target="_blank">Portfolio Website</a>
 
