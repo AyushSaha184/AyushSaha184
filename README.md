@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Saha</h1>
 <h3 align="center">4th-year student | Aspiring GenAI Engineer and third-year student specializing in RAG and Agentic AI Projects. Strong focus on performance and building reliable, production-ready services.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushsaha184&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaha184" />
 </p>
 
