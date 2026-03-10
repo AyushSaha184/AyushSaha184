@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayush Saha</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <br><br>
+</p>
+
 <h3 align="center">4th-year student | Aspiring GenAI Engineer and third-year student specializing in RAG and Agentic AI Projects. Strong focus on performance and building reliable, production-ready services.</h3>
 
 <p align="center">
@@ -12,10 +18,6 @@
 - 📫 How to reach me: **ayushsaha1884@gmail.com**
 
 - ⚡ Fun fact: **I love annoying people… just kidding 😄**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushSaha184&show_icons=true&theme=radical" alt="AyushSaha184" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSaha184&theme=light" alt="GitHub Streak" height="150" />
