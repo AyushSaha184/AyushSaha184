@@ -14,6 +14,9 @@
 - ⚡ Fun fact: **I love annoying people… just kidding 😄**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushSaha184&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSaha184&theme=dark" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushSaha184&show_icons=true&theme=radical" alt="AyushSaha184" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSaha184&theme=light" alt="GitHub Streak" height="150" />
 </p>
