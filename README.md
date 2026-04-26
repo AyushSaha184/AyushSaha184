@@ -72,38 +72,13 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushSaha184&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaha184&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushSaha184&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSaha184&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaha184&layout=compact&theme=tokyonight&hide_border=true" height="200" />
 </p>
 
----
-
-### 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSaha184&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🧠 Dev Metrics Snapshot
-
-- 🔥 Total Contributions: **5,000+**  
-- 🚀 Public Repositories: **40+**  
-- 🧩 Total Pull Requests: **200+**  
-- 🐞 Issues Solved: **150+**  
-- 🌍 Open Source Contributions: **20+ Projects**  
-- 💻 Most Used Stack: **Python, TypeScript, RAG Systems, FastAPI**  
-- ⚡ Focus Area: **Agentic AI + Production-grade GenAI Systems**  
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushSaha184&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSaha184&theme=tokyonight&hide_border=true" height="200" />
 </p>
