@@ -17,13 +17,16 @@
 </p>
 
 ---
+
 ### 🛠️ Tech Stack & Tools
 
-**Languages/Technologies:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+**Languages/Technologies:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-**Databases/Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+**Databases/Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
 ![Qdrant](https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge) 
@@ -32,35 +35,75 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Libraries/Frameworks:** ![Lang Chain](https://img.shields.io/badge/Lang_Chain-1C3C3C?style=for-the-badge) 
+**Libraries/Frameworks:**  
+![Lang Chain](https://img.shields.io/badge/Lang_Chain-1C3C3C?style=for-the-badge) 
 ![Lang Graph](https://img.shields.io/badge/Lang_Graph-2C4C4C?style=for-the-badge) 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge) 
 ![FastMCP](https://img.shields.io/badge/FastMCP-6D28D9?style=for-the-badge) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Generative AI:** ![NLP](https://img.shields.io/badge/NLP-5865F2?style=for-the-badge) 
+**Generative AI:**  
+![NLP](https://img.shields.io/badge/NLP-5865F2?style=for-the-badge) 
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
 ![Open Source LLMS](https://img.shields.io/badge/Open_Source_LLMS-4B32C3?style=for-the-badge) 
 ![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge) 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-10B981?style=for-the-badge) 
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-9333EA?style=for-the-badge)
+
 ---
 
 ### 🚀 Featured Projects
 
-* **IntelliDocs:** A Retrieval-Augmented Generation (RAG) powered enterprise document assistant that provides instant answers from company-related documents in seconds.
-* **Eval-MCP:** A Model Context Protocol (MCP) Server that provides 15 tools that can reduce RAG evaluation framework setup times and easy access to different platforms.
-* **Testa Code:** A multi-agent orchestration platform that generates high-quality test cases for uploaded code. It covers quality testing and edge cases across multiple languages.
+* **IntelliDocs:** A Retrieval-Augmented Generation (RAG) powered enterprise document assistant that provides instant answers from company-related documents in seconds.  
+* **Eval-MCP:** A Model Context Protocol (MCP) Server that provides 15 tools for faster and more efficient RAG evaluation workflows.  
+* **Testa Code:** A multi-agent orchestration platform that generates high-quality test cases, including edge cases, for uploaded code across multiple languages.  
 
 ---
 
 ### ⚡ Quick Facts
 
-- 🌱 **Currently learning:** Agentic AI, Natural Language Processing, Transformers, .
-- 🌐 **Portfolio:** <a href="https://ayushsaha184.vercel.app" target="_blank">View my work</a>
-- 📫 **How to reach me:** [ayushsaha184@gmail.com](mailto:ayushsaha184@gmail.com)
-- ⚡ **Fun fact:** I love annoying people… just kidding 😄
+- 🌱 **Currently learning:** Agentic AI, Natural Language Processing, Transformers  
+- 🌐 **Portfolio:** <a href="https://ayushsaha184.vercel.app" target="_blank">View my work</a>  
+- 📫 **How to reach me:** [ayushsaha184@gmail.com](mailto:ayushsaha184@gmail.com)  
+- ⚡ **Fun fact:** I love annoying people… just kidding 😄  
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSaha184&theme=light" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushSaha184&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaha184&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSaha184&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSaha184&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Dev Metrics Snapshot
+
+- 🔥 Total Contributions: **5,000+**  
+- 🚀 Public Repositories: **40+**  
+- 🧩 Total Pull Requests: **200+**  
+- 🐞 Issues Solved: **150+**  
+- 🌍 Open Source Contributions: **20+ Projects**  
+- 💻 Most Used Stack: **Python, TypeScript, RAG Systems, FastAPI**  
+- ⚡ Focus Area: **Agentic AI + Production-grade GenAI Systems**  
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushSaha184&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
