@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/AyushSaha184/Resume/releases/download/latestt/Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_Latest_Resume-000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/📄_Resume-000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume">
   </a>
 </p>
 
@@ -20,20 +20,13 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+[cite_start]**Languages/Technologies:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) [cite: 6]
 
-**Generative AI & Frameworks:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_%|_%AI_Agents-FF6F00?style=for-the-badge)
+[cite_start]**Databases/Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 8]
 
-**Databases & Infrastructure:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[cite_start]**Libraries/Frameworks:** ![Lang Chain](https://img.shields.io/badge/Lang_Chain-121212?style=for-the-badge) ![Lang Graph](https://img.shields.io/badge/Lang_Graph-121212?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge) ![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) [cite: 8]
+
+[cite_start]**Generative AI:** ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge) ![Open Source LLMS](https://img.shields.io/badge/Open_Source_LLMS-FF6F00?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge) ![MCP Servers](https://img.shields.io/badge/MCP_Servers-FF6F00?style=for-the-badge) [cite: 8]
 
 ---
 
@@ -47,7 +40,7 @@
 
 ### ⚡ Quick Facts
 
-- 🌱 **Currently learning:** Advanced chunking strategies, agentic state graphs, and optimizing LLM orchestration pipelines.
+- 🌱 **Currently learning:** Agentic AI, Natural Language Processing, Transformers, .
 - 🌐 **Portfolio:** <a href="https://ayushsaha184.vercel.app" target="_blank">View my work</a>
 - 📫 **How to reach me:** [ayushsaha184@gmail.com](mailto:ayushsaha184@gmail.com)
 - ⚡ **Fun fact:** I love annoying people… just kidding 😄
