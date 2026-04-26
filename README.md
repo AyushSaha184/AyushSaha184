@@ -48,9 +48,9 @@
 
 ### 🚀 Featured Projects
 
-* **IntelliDocs:** A scalable RAG platform supporting 100k+ documents with a sustained throughput of 60-120 queries/min. Built with Python, FastAPI, Qdrant, and Supabase.
-* **Eval-MCP:** An installable RAG accuracy evaluation platform with 15 production-facing tools and a Postgres-backed job flow to systematize agent scoring.
-* **Testa Code:** A high-performance AI test generation platform using LangGraph for automated code analysis and self-correction across multiple languages.
+* **IntelliDocs:** A Retrieval-Augmented Generation (RAG) powered enterprise document assistant that provides instant answers from company-related documents in seconds.
+* **Eval-MCP:** A Model Context Protocol (MCP) Server that provides 15 tools that can reduce RAG evaluation framework setup times and easy access to different platforms.
+* **Testa Code:** A multi-agent orchestration platform that generates high-quality test cases for uploaded code. It covers quality testing and edge cases across multiple languages.
 
 ---
 
