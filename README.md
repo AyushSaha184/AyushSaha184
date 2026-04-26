@@ -17,17 +17,33 @@
 </p>
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
-[cite_start]**Languages/Technologies:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) [cite: 6]
+**Languages/Technologies:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-[cite_start]**Databases/Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 8]
+**Databases/Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![Qdrant](https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[cite_start]**Libraries/Frameworks:** ![Lang Chain](https://img.shields.io/badge/Lang_Chain-121212?style=for-the-badge) ![Lang Graph](https://img.shields.io/badge/Lang_Graph-121212?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge) ![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) [cite: 8]
+**Libraries/Frameworks:** ![Lang Chain](https://img.shields.io/badge/Lang_Chain-1C3C3C?style=for-the-badge) 
+![Lang Graph](https://img.shields.io/badge/Lang_Graph-2C4C4C?style=for-the-badge) 
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge) 
+![FastMCP](https://img.shields.io/badge/FastMCP-6D28D9?style=for-the-badge) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-[cite_start]**Generative AI:** ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge) ![Open Source LLMS](https://img.shields.io/badge/Open_Source_LLMS-FF6F00?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge) ![MCP Servers](https://img.shields.io/badge/MCP_Servers-FF6F00?style=for-the-badge) [cite: 8]
-
+**Generative AI:** ![NLP](https://img.shields.io/badge/NLP-5865F2?style=for-the-badge) 
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
+![Open Source LLMS](https://img.shields.io/badge/Open_Source_LLMS-4B32C3?style=for-the-badge) 
+![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge) 
+![AI Agents](https://img.shields.io/badge/AI_Agents-10B981?style=for-the-badge) 
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-9333EA?style=for-the-badge)
 ---
 
 ### 🚀 Featured Projects
