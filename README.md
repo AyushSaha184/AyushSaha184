@@ -4,7 +4,7 @@
 
 <h2 align="center">Coding Skills Loading...</h2>
 
-<h3 align="center">4th-year student | Aspiring GenAI Engineer and third-year student specializing in RAG and Agentic AI Projects. Strong focus on performance and building reliable, production-ready services.</h3>
+<h3 align="center">4th-year student | Aspiring GenAI Engineer specializing in RAG and Agentic AI Projects. Strong focus on performance and building reliable, production-ready services.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushsaha184&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaha184" />
