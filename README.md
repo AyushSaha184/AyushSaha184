@@ -55,7 +55,7 @@
 ### 🚀 Featured Projects
 
 * **IntelliDocs:** A Retrieval-Augmented Generation (RAG) powered enterprise document assistant that provides instant answers from company-related documents in seconds.  
-* **Eval-MCP:** A Model Context Protocol (MCP) Server that provides 15 tools for faster and more efficient RAG evaluation workflows.  
+* **Eval-MCP:** A Model Context Protocol (MCP) Server that provides 15 tools for faster and more efficient accuracy evaluation for RAG systems.  
 * **Testa Code:** A multi-agent orchestration platform that generates high-quality test cases, including edge cases, for uploaded code across multiple languages.  
 
 ---
