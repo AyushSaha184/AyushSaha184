@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushsaha184&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaha184" />
 </p>
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -71,11 +70,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Main Profile Card -->
-  <img src="https://api.githubcard.com/AyushSaha184?theme=tokyonight&variant=compact" width="48%" />
-  
-  <!-- Language & Activity Card -->
-  <img src="https://api.githubcard.com/AyushSaha184/languages?theme=tokyonight&variant=compact" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-anuraghazra.vercel.app/api?username=AyushSaha184&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-anuraghazra.vercel.app/api/top-langs/?username=AyushSaha184&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
