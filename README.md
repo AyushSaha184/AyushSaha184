@@ -72,8 +72,11 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushSaha184&show_icons=true&theme=tokyonight&hide_border=true" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaha184&layout=compact&theme=tokyonight&hide_border=true" width="44%" />
+  <!-- Main Profile Card -->
+  <img src="https://api.githubcard.com/AyushSaha184?theme=tokyonight&variant=compact" width="48%" />
+  
+  <!-- Language & Activity Card -->
+  <img src="https://api.githubcard.com/AyushSaha184/languages?theme=tokyonight&variant=compact" width="48%" />
 </p>
 
 <p align="center">
